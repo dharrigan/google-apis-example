@@ -1,0 +1,3 @@
+{:paths ["src"]
+
+ :deps {google-apps-clj/google-apps-clj {:mvn/version "0.6.1"}}}
